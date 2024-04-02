@@ -56,7 +56,7 @@ namespace glTF {
     using rapidjson::PrettyWriter;
     using rapidjson::Writer;
     using rapidjson::StringRef;
-    using rapidjson::StringRef;
+    // using rapidjson::StringRef;
 
     namespace {
 
